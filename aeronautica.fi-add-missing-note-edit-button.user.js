@@ -9,6 +9,7 @@
 //              is only place with the edit button for notes. This script adds edit button under
 //              "Customer bookings" page which can display all your bookings.
 // @source      https://github.com/buq2/UserScripts/aeronautica.fi-add-missing-note-edit-button.user.js
+// @license     MIT
 // @run-at      document-idle
 // ==/UserScript==
 
